@@ -13,6 +13,7 @@ class EcommerceApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Ecommerce App',
+      color: Colors.amberAccent,
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),

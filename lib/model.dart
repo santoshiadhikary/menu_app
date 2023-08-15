@@ -18,7 +18,6 @@ class MenuItem {
 
 class RestaurantMenuPage extends StatelessWidget {
   final List<MenuItem> menuItems = [
-   
     MenuItem(
       id: '1',
       name: 'Cheeseburger',
